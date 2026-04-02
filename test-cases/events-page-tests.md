@@ -2,7 +2,7 @@
 ## Verify that the sign-up form is displayed after clicking the [Create event] button for an unauthorized user
 ### Priority
 Medium
-### Pre-conditions:
+### Preconditions:
 1. User is not logged in.
 2. The 'Events' page is opened.
    
@@ -13,7 +13,7 @@ Medium
 ## Verify that the 'Create event' page is displayed after clicking the [Create event] button for an authorized user
 ### Priority
 Medium
-### Pre-conditions:
+### Preconditions:
 1. User is logged in.
 2. The 'Events' page is opened.
 
@@ -24,7 +24,7 @@ Medium
 ## Verify that the search field returns relevant results for valid input on the 'Events' page
 ### Priority
 Medium
-### Pre-conditions:
+### Preconditions:
 1. The 'Events' page is opened.
 
 | № | Step | Test data | Expected result | Execution result |
@@ -35,7 +35,7 @@ Medium
 ## Verify that the search field returns no results for invalid input on the 'Events' page
 ### Priority
 Medium
-### Pre-conditions:
+### Preconditions:
 1. The 'Events' page is opened.
 
 | № | Step | Test data | Expected result | Execution result |

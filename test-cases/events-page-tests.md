@@ -41,4 +41,4 @@ Medium
 | № | Step | Test data | Expected result | Execution result |
 |---|------|-----------|-----------------|------------------|
 | 1 | Click on the search icon |  | The search field is displayed | Not Started |
-| 2 | Enter an invalid input in the search field | '$$$' | 1. "We didn't find any results matching to this search" message is displayed on the page | Not Started |
+| 2 | Enter an invalid input in the search field | '$$$' | "We didn't find any results matching to this search" message is displayed on the page | Not Started |
